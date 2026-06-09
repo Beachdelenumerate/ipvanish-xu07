@@ -1,4 +1,4 @@
-
+IPVanish instant Extension: WireGuard-support & split-tunneling offers the most advanced IPVanish extension, with WireGuard-support and split-tunneling. Ideal for users who value
 
 
 
